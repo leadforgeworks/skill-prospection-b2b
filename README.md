@@ -18,7 +18,7 @@ git clone https://github.com/leadforgeworks/skill-prospection-b2b ~/.claude/skil
 
 **Windows (PowerShell)**
 ```powershell
-git clone https://github.com/leadforgeworks/skill-prospection-b2b "$HOME.claudeskillsprospection-b2b"
+git clone https://github.com/leadforgeworks/skill-prospection-b2b "$HOME\.claude\skills\prospection-b2b"
 ```
 
 Redémarrez Claude Code : le skill se déclenche tout seul quand votre demande correspond. Pour le mettre à jour : `git pull` dans ce dossier.
